@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as HR Manager<br>👯 I’m also working as Flutter Developer<br>🌱 I’m currently learning Flutter<br>💬 Ask me about my Skills and knowledge<br>⚡ Fun fact I'm  good at Designing UI/UX
+🔭 I’m currently working as HR Manager<br>👯 I’m also working as Flutter Developer<br>🌱 I’m currently learning more and more<br>💬 Ask me about my Skills and knowledge<br>⚡ Fun fact I'm  good at Designing UI/UX
 
 
 ## 🌐 Socials:
